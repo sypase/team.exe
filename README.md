@@ -1,5 +1,5 @@
 # team.exe
-# MEDHUB (Google for HEALTH 👩‍⚕️📝💊)
+# MEDHUB (Simplifying Healthcare Management 👩‍⚕️📝💊)
 
 MedHub: "Streamlined healthcare access and AI-guided wellness."
 "MedHub is your one-stop solution for all your medical needs. Whether you're scheduling appointments, seeking personalized health advice, or managing your medical records, MedHub provides the convenience and tools you need. With a user-friendly interface and cutting-edge technology, MedHub is your trusted partner in maintaining your health."
