@@ -7,6 +7,7 @@ medicines
 *Searching medicine data
 *Medicine API (Nepali medicine)
 
+
 We don't see medicine api and 
 ---------------------------------------------
 We assists through AI powered medical chatbot 
@@ -14,3 +15,4 @@ where bot can give syptom analysis as well as
 medicine analysis 
 ---------------------------------------------
 # MEDCONNECT (Connect with doctors)
+connect with specialized doctors
