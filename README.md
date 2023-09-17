@@ -10,7 +10,7 @@ MedHub: "Streamlined healthcare access and AI-guided wellness."
 MedChat is your go-to chatbot for all things health-related. It provides quick and reliable answers to your medical questions, offers advice on symptoms, and can even connect you with healthcare professionals for virtual consultations. With MedChat, you have instant access to healthcare guidance whenever you need it, right at your fingertips.
 
 
-# MEDCONNECT (Connect with doctors)
+#MEDCONNECT (Connect with doctors)
 ---------------------------------------------
 MedConnect revolutionizes healthcare communication by connecting patients and healthcare providers seamlessly. Our platform enables secure and efficient sharing of medical information, appointment scheduling, and real-time collaboration. With MedConnect, you can ensure everyone involved in your healthcare is on the same page, leading to better care outcomes.
 
