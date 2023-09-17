@@ -16,3 +16,4 @@ medicine analysis
 ---------------------------------------------
 # MEDCONNECT (Connect with doctors)
 connects with specialized doctors
+user-friendly and accessible healthcare web application
