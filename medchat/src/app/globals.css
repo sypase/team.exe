@@ -1,11 +1,14 @@
+/* Set the box-sizing property for all elements to border-box */
 * {
     box-sizing: border-box;
 }
 
+/* Set the height of the html and body elements to 100% */
 html, body {
     height: 100%;
 }
 
+/*  Set the background image and adjust its position and size. */
 body {
     /* background: linear-gradient(237.94deg, #38F48E 0.42%, #08A0CA 100.7%); */
     background-image: url("../../public/chatbg.svg");
