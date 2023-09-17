@@ -31,5 +31,3 @@ user-friendly and accessible healthcare web application
 
 # Tools used
 
-![image](https://github.com/sypase/team.exe/assets/144668261/ca7679dd-49c1-4fc2-8ae3-07b4a5ec7d2e)
-
