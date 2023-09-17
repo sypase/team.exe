@@ -1,5 +1,6 @@
+/* Importing Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
-
+/* Applying Poppins font to all elements */
 *{
   font-family: 'Poppins', sans-serif !important;
 }
@@ -11,26 +12,33 @@ input{
   border-radius: 50px ;
   height: 40px !important;
 }
+/* Removing focus outline and box shadow for 'input' and '.ant-picker' elements */
 input:focus , .ant-picker{
   outline: none !important;
   box-shadow: none !important;
   border: 1px solid gray !important;
 }
+/* Style 'label' elements */
 label{
   font-size: 16px !important;
   color: black !important;
 }
+
+/* Style '.ant-form-item' */
 .ant-form-item{
   margin: 10px 0 !important;; 
 }
+/* Removing borders for 'input' elements inside '.ant-picker-input' */
 .ant-picker-input input{
   border: none !important;
 }
+/* Style '.ant-picker' elements */
 .ant-picker{
   border-radius: 2px !important;
   border: 1px solid rgba(128, 128, 128, 0.521) !important;
   height: 40px !important;
 }
+/* Style 'authentication-logo' class */
 .authentication-logo { 
   display: flex;
   justify-content: center;
@@ -40,14 +48,14 @@ label{
   font-weight: bold; /* Optional: Make the text bold */
   height: 100%; /* Ensure the div takes up the full height of its container */
 }
-
+/* Style 'logo-text' class */
 .logo-text {
   text-align: center;
 }
 
 
 /* Common styling */
-
+/* Style for spinner */
 .spinner-parent{
   display: flex;
   justify-content: center;
@@ -60,35 +68,41 @@ label{
   height: 100%;
   z-index: 9999;
 }
+/* Style for spinner-border */
 .spinner-border{
   width: 5rem;
   height: 5rem;
   color: white !important;
 }
-
+/* Styling for page titles */
 .page-title{
   font-size: 25px;
   color: rgba(0, 0, 0, 0.833);
   font-weight: bold;
 }
+/* Styling for card titles */
 .card-title{
   font-size: 22px;
   font-weight: bold;
   color: rgba(0, 0, 0, 0.627);
 
 }
+/* Styling for normal text */
 .normal-text{
   font-size: 1rem;
 }
+/* Styling for cards */
 .card{
   box-shadow: 0 0 2px rgb(0, 0, 0);
   border-radius: 20px !important;
   padding: 20px!important;
   margin: 10px!important;
 }
+/* Styling for '.darta' class */
 .darta{
   margin-left: 242px;
 }
+/* Styling for '.primary-button' class */
 .primary-button{
   background-color: #000000 !important;
   border-color: #000000 !important;
@@ -99,35 +113,39 @@ label{
   border-radius: 15px;
   width: max-content !important;
 }
+/* Styling for '.primary-button' when hovered */
 .primary-button:hover {
   background-color: #000000 !important;
   transform: scale(1.05); /* Add a scale effect on hover */
 }
+/* Styling for '.full-width-button' class */
 .full-width-button{
   width: 100% !important;
 }
+/* Styling for 'p' elements */
 p{
   color: rgba(0, 0, 0, 0.673) !important;
   padding: 0 !important;
   margin: 0 !important;
 }
-
+/* Styling for '.anchor' class */
 .anchor{
   color: black !important;
   text-decoration: underline;
   cursor: pointer;
   font-size: 16px !important;
 }
+/* Styling for '.anchor' when hovered */
 .anchor:hover{
   text-decoration: underline !important;
 }
-
+/* Styling for elements with '.cursor-pointer' class */
 .cursor-pointer{
   cursor: pointer;
 }
 
 
-/* authentication pages */
+/* stylig for authentication pages */
 
 .authentication{
    height: 100vh;
@@ -138,6 +156,7 @@ p{
    background: rgb(255, 255, 255);
 /* background: radial-gradient(circle, rgb(0, 255, 98) 0%, rgba(148,187,233,1) 100%); */
 }
+/* styling for authentication form */
 .authentication-form{
   width:500px;
   height: 50%;
@@ -146,6 +165,7 @@ p{
   justify-content: center;
   border: 2px solid black;
 }
+/* Styling for '.authentication-form-register' class */
 .authentication-form-register{
   padding: 20px;
   width:600px;
@@ -155,6 +175,7 @@ p{
   justify-content: center;
   border: 2px solid black;
 }
+/* Styling for '.authentication .card-title' */
 .authentication .card-title{
   font-size: 1.5rem;
   font-weight: bold;
@@ -164,7 +185,7 @@ p{
 
   border-bottom-left-radius: 10px;
 }
-
+/* Styling for '.hometitle' class */
 .hometitle{
   margin: 1rem;
 }
