@@ -15,4 +15,4 @@ where bot can give syptom analysis as well as
 medicine analysis 
 ---------------------------------------------
 # MEDCONNECT (Connect with doctors)
-connect with specialized doctors
+connects with specialized doctors
