@@ -18,6 +18,7 @@ import Appointments from "./pages/Appointments";
 import DoctorAppointments from "./pages/Doctor/DoctorAppointments";
 
 function  App() {
+ // Using Redux to check the loading state
   const { loading } = useSelector((state) => state.alerts);
   return (
     <BrowserRouter>
